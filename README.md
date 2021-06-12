@@ -1,0 +1,2 @@
+# AspNetCoreShop
+apı-infrastructure-core
